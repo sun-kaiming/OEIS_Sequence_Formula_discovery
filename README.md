@@ -1,0 +1,2 @@
+# OEIS_Sequence_Formula_discovery
+该代码主要用于发现OEIS的数列的公式
